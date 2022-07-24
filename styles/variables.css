@@ -1,16 +1,13 @@
 :root {
   --border-radius: 10px;
 
-  /* Primary */
-  --color-gradient: linear-gradient(hsl(6, 100%, 80%), hsl(335, 100%, 65%));
-
-  /* Neutral */
+  /* Palette */
   --color-white: hsl(255, 100%, 100%);
   --color-light-gray: hsl(212, 45%, 89%);
   --color-grayish-blue: hsl(220, 15%, 55%);
   --color-dark-blue: hsl(218, 44%, 22%);
   
-  /* Fonts */
+  /* Font */
   --font-family: "Outfit", sans-serif;
   --font-size: 15px;
   --font-weight-medium: 400;
