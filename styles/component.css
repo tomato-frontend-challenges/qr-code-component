@@ -1,0 +1,23 @@
+.component {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  margin: 26px;
+  height: 500px;
+
+  background-color: azure;
+}
+
+.component > * {
+  text-align: center;
+}
+
+.component__title {
+  font-weight: var(--font-weight-heavy);
+}
+
+
+.component__element {
+  font-weight: var(--font-weight-medium);
+}
