@@ -3,7 +3,7 @@
   justify-content: center;
   flex-direction: column;
 
-  margin: 20px;
+  width: clamp(200px, 100%, 330px);
   padding: 1rem;
   height: fit-content;
   border-radius: 1rem;
@@ -35,10 +35,4 @@
   width: 100%;
   border-radius: 0.5rem;
   height: auto;
-}
-
-@media (min-width: 375px) {
-  .component {
-    width: 330px;
-  }
 }
