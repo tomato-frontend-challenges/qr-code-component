@@ -25,13 +25,7 @@ Users should be able to:
 
 ### Screenshots
 
-Mobile
-
-![screenshot-mobile](TO BE UPLOADED)
-
-Desktop
-
-![screenshot-desktop](TO BE UPLOADED)
+![qr-code-component](https://user-images.githubusercontent.com/24487667/180671374-92c672ad-2b7c-4e0d-a777-7c28414647c0.png)
 
 ### Links
 
